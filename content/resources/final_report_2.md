@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains pages 45 to 89 of the project report based on
   envisioning centralville.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-360-community-growth-and-land-use-planning-fall-2005/270fb8940f4899db52046eb63af175ae_final_report_2.pdf
+file: /media/courses/11-360-community-growth-and-land-use-planning-fall-2005/270fb8940f4899db52046eb63af175ae_final_report_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: final_report_2.pdf
 uid: 270fb894-0f48-99db-5204-6eb63af175ae

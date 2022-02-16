@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: reReadings
 uid: 734767bf-8c68-d845-8a9f-cfac204bb9f7
 ---

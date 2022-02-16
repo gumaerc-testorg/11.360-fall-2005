@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the project presentation on the topic envisioning
   centralville.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-360-community-growth-and-land-use-planning-fall-2005/b4246c0c26fad6654e23da7f1548e992_final_pres.pdf
+file: /media/courses/11-360-community-growth-and-land-use-planning-fall-2005/b4246c0c26fad6654e23da7f1548e992_final_pres.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: final_pres.pdf
 uid: b4246c0c-26fa-d665-4e23-da7f1548e992

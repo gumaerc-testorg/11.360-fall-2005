@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains Terry ?s tips for readying a plan for adoption
   and success.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-360-community-growth-and-land-use-planning-fall-2005/99b288ebe67c9e348716c123fd72171e_terrytips.pdf
+file: /media/courses/11-360-community-growth-and-land-use-planning-fall-2005/99b288ebe67c9e348716c123fd72171e_terrytips.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: reReadings
+parent_type: CourseSection
 resourcetype: Document
 title: terrytips.pdf
 uid: 99b288eb-e67c-9e34-8716-c123fd72171e
