@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9588783f-4234-0a27-d217-13cd63516a96
 resourcetype: Document
 title: final_report.pdf
 uid: 1a0e8f2f-089b-59ac-99a1-e510e5071de2

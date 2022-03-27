@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: reReadings
 parent_type: CourseSection
+parent_uid: 734767bf-8c68-d845-8a9f-cfac204bb9f7
 resourcetype: Document
 title: kohr_thesis.pdf
 uid: 4dfedd90-ef13-851c-9e1b-7f40eba7692c

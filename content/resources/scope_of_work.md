@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: reReadings
 parent_type: CourseSection
+parent_uid: 734767bf-8c68-d845-8a9f-cfac204bb9f7
 resourcetype: Document
 title: scope_of_work.pdf
 uid: df3a06ac-d7f6-0a0f-4ccd-111776d0de5c
