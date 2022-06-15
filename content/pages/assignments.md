@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section talks about project expectations and final grade
+  evaluation issues for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
