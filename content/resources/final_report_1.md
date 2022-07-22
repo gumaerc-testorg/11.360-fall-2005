@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/2e97c5036
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_report_1.pdf
 uid: 2e97c503-61c7-20e8-d789-cfd39a756336
 ---
 This resource contains page 1 to 44 of the project report based on the envisioning centralville.
-

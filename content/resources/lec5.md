@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/e950ca11b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5.pdf
 uid: e950ca11-b3cd-b9d1-4724-414e653533be
 ---
 This resource contains basics of zoning with its history, definition, and all the details.
-
