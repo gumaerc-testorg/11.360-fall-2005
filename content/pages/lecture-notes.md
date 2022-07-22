@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the notes for the lecture topics covered during
+  the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9262efbb-4518-5743-488f-cf3e61c7cc91
 ---
@@ -42,7 +47,7 @@ LECTURE NOTES
 Community Planning Project Introduced
 {{< tdclose >}}
 {{< tdopen >}}
-Envisioning Centralville - George Proakis ([PDF - 3.5 MB]({{< baseurl >}}/resources/lec2))
+Envisioning Centralville - George Proakis ({{% resource_link e1da0644-d095-e199-20a1-2970210c78f9 "PDF - 3.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ Envisioning Centralville - George Proakis ([PDF - 3.5 MB]({{< baseurl >}}/resour
 Zoning Controls - The Basics
 {{< tdclose >}}
 {{< tdopen >}}
-Zoning Basics ([PDF - 1.9 MB]({{< baseurl >}}/resources/lec5))
+Zoning Basics ({{% resource_link e950ca11-b3cd-b9d1-4724-414e653533be "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Zoning Basics ([PDF - 1.9 MB]({{< baseurl >}}/resources/lec5))
 Zoning Innovations
 {{< tdclose >}}
 {{< tdopen >}}
-Zoning Innovations: Evolution and Practice ([PDF]({{< baseurl >}}/resources/lec10))
+Zoning Innovations: Evolution and Practice ({{% resource_link e15250f4-64d7-2937-bb1d-87f404482726 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
