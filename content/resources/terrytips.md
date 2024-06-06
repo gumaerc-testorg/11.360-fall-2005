@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains Terry ?s tips for readying a plan for adoption
   and success.
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/99b288ebe67c9e348716c123fd72171e_terrytips.pdf
+file_size: 84469
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
