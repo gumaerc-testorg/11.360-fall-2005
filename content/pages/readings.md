@@ -348,7 +348,7 @@ Scan through sprawl and smart growth Web sites and links, such as:
 
 [Preservation Institute](http://www.preservenet.com/)
 
-[Sprawl and Growth](http://www.plannersweb.com/articles/sprawl-articles.html) Topics Covered in the Planning Commissioners Journal
+[Sprawl and Growth](https://web.archive.org/web/20060213151830/http://www.plannersweb.com/articles/sprawl-articles.html) Topics Covered in the Planning Commissioners Journal
 
 Metropolis St. Louis: [Suburban Sprawl](http://www.mstl.org/index.php/focus/sprawl)
 
