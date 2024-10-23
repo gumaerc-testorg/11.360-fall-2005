@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains page 1 to 44 of the project report based on the
   envisioning centralville.
-file: /courses/11-360-community-growth-and-land-use-planning-fall-2005/2e97c50361c720e8d789cfd39a756336_final_report_1.pdf
+file: /ol-ocw-studio-app/courses/11-360-community-growth-and-land-use-planning-fall-2005/2e97c50361c720e8d789cfd39a756336_final_report_1.pdf
 file_size: 9904200
 file_type: application/pdf
 learning_resource_types:
