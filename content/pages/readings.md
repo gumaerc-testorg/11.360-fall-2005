@@ -108,9 +108,9 @@ View student work from [Fall 2003](/courses/11-360-community-growth-and-land-use
 Imaging Centralville
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "e7d95e82-5a12-4999-89fb-d30a8365c951" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "The Image of the Environment." Chapter 1 in *Image of the City*. Cambridge, MA: The Technology Press and Harvard University Press, 1960, pp. 1-13. ISBN: 9780262620017.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620017) Lynch, Kevin. "The Image of the Environment." Chapter 1 in *Image of the City*. Cambridge, MA: The Technology Press and Harvard University Press, 1960, pp. 1-13. ISBN: 9780262620017.
 
-{{% resource_link "83823ab2-5a61-48c3-bb2e-05644c9d60fa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jacobs, Allan B. "Making Great Streets." Chapter 4 in *Great Streets*. Cambridge, MA: MIT Press, 1993, pp. 269-308. ISBN: 9780262600231.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262600231) Jacobs, Allan B. "Making Great Streets." Chapter 4 in *Great Streets*. Cambridge, MA: MIT Press, 1993, pp. 269-308. ISBN: 9780262600231.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 5: Visioning; The Growth Management System: Local and Regional Issues**
@@ -238,7 +238,7 @@ Kennedy, Maureen, and Paul Leonard. *Dealing With Neighborhood Change: A Primer 
 
 Bergsman, Steve. "Community Renewal: Activating Chicago's Washington Park." *Urban Land* 63, no. 10 (October 2004): 104-107.
 
-Seidman, Karl F. *Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs.* The Fannie Mae Foundation, September 2004. ({{% resource_link "821c2f06-7baa-4aa1-a398-868fec812b01" "PDF - 1.8MB" %}})
+Seidman, Karl F. *Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs.* The Fannie Mae Foundation, September 2004. ([PDF - 1.8MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-fannie-mae-main-str.pdf))
 
 NBDM Overview: What is the Neighborhood Business Development Methodology.
 
@@ -270,7 +270,7 @@ Duerksen, Christopher J. "Form, Character, and Context: New Directions in Land U
 
 *Community Form Plan, Summary Paper: Vision, Guiding Principles, and Form Districts.* Cornerstone 2020, Louisville and Jefferson County Comprehensive Plan, January 1996.
 
-Municipal Code Library by {{% resource_link "a90f45fb-9e3b-4fc2-8bb6-d933bcbadc24" "Lexis Nexis" %}} - Search the Web to evaluate design review and design standards from other cities and towns.
+Municipal Code Library by [Lexis Nexis](http://municipalcodes.lexisnexis.com/) - Search the Web to evaluate design review and design standards from other cities and towns.
 
 *Optional*
 
@@ -328,9 +328,9 @@ Hoyle, Cynthia L. *Traffic Calming.* Planners Advisory Service Report no. 456, A
 
 Skim through for a sense of the concept and various techniques.
 
-{{% resource_link "16fc909d-3961-4b8d-b938-efd1260fc17e" "Traffic Calming: The Federal Highway Administration (FHWA)" %}} - A new Web site dedicated to all the known and/or electronically publicized transportation programs and studies that pertain to traffic calming.
+[Traffic Calming: The Federal Highway Administration (FHWA)](http://safety.fhwa.dot.gov/speedmgt/traffic_calm.cfm) - A new Web site dedicated to all the known and/or electronically publicized transportation programs and studies that pertain to traffic calming.
 
-Institute of Transportation Engineers (ITE) {{% resource_link "519c6322-be8e-45c4-92c7-9fd3b7e528ae" "Traffic Calming Library" %}}
+Institute of Transportation Engineers (ITE) [Traffic Calming Library](http://www.ite.org/traffic/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 10: Sprawl, The Strip, and Smart Development**
@@ -342,15 +342,15 @@ Thwarting Sprawl, Smart Growth, and the Evolution of Suburbia
 
 Scan through sprawl and smart growth Web sites and links, such as:
 
-{{% resource_link "4fe801ea-7b16-41ce-bb59-304556b133ed" "Sprawl Watch" %}}
+[Sprawl Watch](http://www.sprawlwatch.org/)
 
-{{% resource_link "406ceef1-249f-4e73-b6db-d97814e7d9c7" "Smart Growth Online" %}}
+[Smart Growth Online](http://www.smartgrowth.org/)
 
-{{% resource_link "567ea533-b67e-45b7-a17e-609341e3a6b9" "Preservation Institute" %}}
+[Preservation Institute](http://www.preservenet.com/)
 
-{{% resource_link "9dd3e5e2-546e-482f-b907-80188a1fb6ef" "Sprawl and Growth" %}} Topics Covered in the Planning Commissioners Journal
+[Sprawl and Growth](https://web.archive.org/web/20060213151830/http://www.plannersweb.com/articles/sprawl-articles.html) Topics Covered in the Planning Commissioners Journal
 
-Metropolis St. Louis: {{% resource_link "c30aa360-eb04-418a-8621-cfbaf83406df" "Suburban Sprawl" %}}
+Metropolis St. Louis: [Suburban Sprawl](http://www.mstl.org/index.php/focus/sprawl)
 
 Kunstler, James Howard. "The Evil Empire." Chapter 7 in *The Geography of Nowhere*. New York, NY: Simon & Schuster, 1994, pp. 113-131. ISBN: 0671707744.
 
@@ -424,7 +424,7 @@ Cervero, Robert. *The Transit Metropolis: A Global Inquiry*. Washington, DC: Isl
 Ecological Considerations
 {{< tdclose >}}{{< tdopen >}}
 
-*Smart Site Practices for Redevelopment and Infill Projects Redevelopment.* Center for Watershed Protection, October 2001. ({{% resource_link "f1081b3f-83ab-44cd-b7b2-4df12fd5aed3" "PDF" %}})
+*Smart Site Practices for Redevelopment and Infill Projects Redevelopment.* Center for Watershed Protection, October 2001. ([PDF](https://owl.cwp.org/?mdocs-file=5220))
 
 Enlow, Clair. "Planning-Rethinking Streets as Parks-Seattle's Open Space Strategy Shifts its Emphasis Away from Traditional Parks to an Evolving "Urban Ecosystem" that Focuses on City Streets." *Landscape Architecture* 92 (2002): 52-58.
 
